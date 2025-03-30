@@ -6,7 +6,7 @@ Inspired by https://www.computerenhance.com/p/repetition-testing
 
 ## Usage
 
-```
+```jai
     tester: RepetitionTester;
     // Optionally pass a total byte count, to get a bytes-per-second figure
     NewTestWave( *tester, totalByteCount );
